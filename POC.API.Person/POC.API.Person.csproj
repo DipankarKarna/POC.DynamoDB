@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Repository.DynamoDB\POC.Repository.DynamoDB.csproj" />
+    <ProjectReference Include="..\POC.Repository.DynamoDB\POC.Repository.DynamoDB.csproj" />
   </ItemGroup>
 
 </Project>

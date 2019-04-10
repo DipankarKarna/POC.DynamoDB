@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.API.Person", "API.Person\POC.API.Person.csproj", "{0AB649FC-140C-46D2-8FEB-8FAA8E369F0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.API.Person", "POC.API.Person\POC.API.Person.csproj", "{0AB649FC-140C-46D2-8FEB-8FAA8E369F0A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.Repository.DynamoDB", "Repository.DynamoDB\POC.Repository.DynamoDB.csproj", "{A310DA15-17FE-4ACE-A919-4ACFB162A94D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.Repository.DynamoDB", "POC.Repository.DynamoDB\POC.Repository.DynamoDB.csproj", "{A310DA15-17FE-4ACE-A919-4ACFB162A94D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
